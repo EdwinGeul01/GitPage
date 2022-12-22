@@ -84,8 +84,8 @@ export const Menu_Phone = ({rotate})=>
         <div className="flex flex-col text-white w-full items-center mt-32 h-full space-y-5">
             <Link to="/GitPage/" className="p-2 border rounded-md px-4 min-w-[200px] text-center" onClick={()=>{HideMenu()}}>Home</Link>
             <Link to="/GitPage/Projects" className="p-2 border rounded-md px-4 min-w-[200px] text-center" onClick={()=>{HideMenu()}}>My Projects</Link>
-            <Link to="/GitPage/certificates" className="p-2 border rounded-md px-4 min-w-[200px] text-center">Certificates</Link>
-            <Link to="/GitPage/ContactMe" className="p-2 border rounded-md px-4 min-w-[200px] text-center">Contact Me</Link>
+            <Link to="/GitPage/certificates" className="p-2 border rounded-md px-4 min-w-[200px] text-center" onClick={()=>{HideMenu()}}>Certificates</Link>
+            <Link to="/GitPage/ContactMe" className="p-2 border rounded-md px-4 min-w-[200px] text-center" onClick={()=>{HideMenu()}}>Contact Me</Link>
 
         </div>
         </motion.div>
