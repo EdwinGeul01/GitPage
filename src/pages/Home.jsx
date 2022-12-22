@@ -48,6 +48,7 @@ const Home = () => {
         >
           <p className="text-[#71e39d] MonospaceTypewriterFont">
             #Hola Bienvenidos a mi portafolium , donde compatire un poco sobre mis: <br />
+          </p>
             <span className="text-red-400 text-2xl">
               <Typewriter
                 options={{
@@ -62,7 +63,6 @@ const Home = () => {
                 }}
               />
             </span>
-          </p>
           <br />
           <br />
           {AboutMe}

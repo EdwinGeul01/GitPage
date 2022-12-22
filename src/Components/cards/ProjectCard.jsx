@@ -3,6 +3,8 @@ import React from 'react'
 
 
 export default function ProjectCard(props) {
+  
+  
   return (
     <a href='#' className='w-full h-full'>
     <div className='w-full h-32 bg-[#233049] mb-8 
