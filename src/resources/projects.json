@@ -1,0 +1,39 @@
+[
+{
+    "name": "chess simulator in Java",
+    "Description":"description 1",
+    "pathIMG":"./src/resources/C1.png",
+    "ProjectLink": "https://github.com/EdwinGeul01/chess-simulator"
+
+
+},
+{
+    "name": "steganography in c++",
+    "Description":"description 1",
+    "pathIMG":"./src/resources/steganography.jpeg",
+    "ProjectLink": "https://github.com/EdwinGeul01/Steganography-on-BMP-24-bits"
+
+
+},
+{   
+
+    "name": "youtube mp4 mp3 python",
+    "Description":"Programa de consola realizado en python para descargar de youtube en mp3 y mp4",
+    "pathIMG":"./src/resources/youtubemp3.png",
+    "ProjectLink": "https://github.com/EdwinGeul01/youtube-mp4-mp3-downloader"
+},
+{   
+
+    "name": "twitter-simulator-java",
+    "Description":"Programa de consola realizado en python para descargar de youtube en mp3 y mp4",
+    "pathIMG":"./src/resources/twitter.png",
+    "ProjectLink": "https://github.com/EdwinGeul01/twitter-simulator-java"
+},
+{   
+
+    "name": "angular small examples",
+    "Description":"Programa de consola realizado en python para descargar de youtube en mp3 y mp4",
+    "pathIMG":"./src/resources/angularsmall.png",
+    "ProjectLink": "https://github.com/EdwinGeul01/Small-Projects-Angular"
+}
+]

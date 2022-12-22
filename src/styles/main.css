@@ -1,0 +1,22 @@
+body
+{
+background-color: rgb(13, 13, 33);
+}
+
+
+
+.cardproject:hover > img
+{
+
+    opacity: .9;
+    transition-duration: 200ms;
+
+
+}
+
+
+.cardproject> img
+{
+    transition-duration: 200ms;
+}
+

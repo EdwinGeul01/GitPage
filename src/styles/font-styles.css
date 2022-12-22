@@ -1,0 +1,45 @@
+@font-face {
+    font-family: BebasKai;
+    src: url("../resources/BebasKai.otf");
+}
+
+@font-face {
+    font-family: GeosansLight;
+    src: url("../resources/GeosansLight.ttf");
+}
+
+
+@font-face {
+    font-family: Kiona-Regular;
+    src: url("../resources/Kiona-Regular.ttf");
+}
+
+@font-face {
+    font-family: MonospaceTypewriter;
+    src: url("../resources/MonospaceTypewriter.ttf");
+}
+
+
+
+.BebasFont
+{
+    font-family: Bebaskai;
+    letter-spacing: .2rem;
+}
+
+.Geosansfont
+{
+    font-family: GeosansLight;
+
+}
+
+
+.KionaFont
+{
+    font-family: Kiona-Regular;
+}
+
+.MonospaceTypewriterFont
+{
+    font-family: MonospaceTypewriter;
+}
