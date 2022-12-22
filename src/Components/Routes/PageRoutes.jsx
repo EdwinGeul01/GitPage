@@ -8,10 +8,10 @@ import ContactMe from '../../pages/ContactMe'
   function PageRoutes() {
   return (
     <Routes>
-        <Route path='/' element={<Home></Home>} />
-        <Route path='/Projects' element={<Projects/>} />
-        <Route path='/certificates' element={<Certificates/>} />
-        <Route path='/ContactMe' element={<ContactMe/>} />
+        <Route path='./' element={<Home></Home>} />
+        <Route path='./Projects' element={<Projects/>} />
+        <Route path='./certificates' element={<Certificates/>} />
+        <Route path='./ContactMe' element={<ContactMe/>} />
     </Routes>
     )
 }
