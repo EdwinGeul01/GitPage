@@ -1,6 +1,6 @@
 import ProjectsData from "../resources/projects.json";
 import { useState } from "react";
-import { motion } from "framer-motion"
+import { motion } from "framer-motion";
 import ProjectCard from "../Components/cards/ProjectCard";
 import SearchBarProject from "../Components/searchBarProject";
 import DesignServicesIcon from '@mui/icons-material/DesignServices';
