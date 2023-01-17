@@ -47,7 +47,7 @@ const Home = () => {
           className="duration-300"
         >
           <p className="text-[#71e39d] MonospaceTypewriterFont">
-            #Hola Bienvenidos a mi portafolium , donde compatire un poco sobre mis: <br />
+            #Hola Bienvenidos a mi portfolio , donde compatire un poco sobre mis: <br />
           </p>
             <span className="text-red-400 text-2xl">
               <Typewriter
